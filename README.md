@@ -1,1 +1,3 @@
-# pm-heat-med-interaction
+# Evaluating the Interaction between Heat and PM2.5 with Distributed Lags in a Case-Crossover Design
+
+This repository contains code for evaluating the interactive effects between heat (index) and PM2.5 on hypoglycemia among insulin, sulfonylurea, and metformin users using a conditional logistic distributed lag mixture model. We evaluate this interaction within a case-crossover study design. The code is available in the directory [`Analysis`](https://github.com/laurenmock/pm-heat-med-interaction/tree/main/Analysis) with the functions available in [`Functions`](https://github.com/laurenmock/pm-heat-med-interactions/tree/main/Analysis).
